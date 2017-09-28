@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimitri Justeau</title>
+    <link>http://localhost:1313/index.xml</link>
+    <description>Recent content on Dimitri Justeau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Dimitri Justeau</copyright>
+    <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hello internet visitor! I&amp;rsquo;m Dimitri, a PhD student with the &lt;a href=&#34;https://www.adum.fr/as/ed/gaia/&#34;&gt;&lt;strong&gt;GAIA&lt;/strong&gt;&lt;/a&gt; doctoral school at the &lt;a href=&#34;http://www.umontpellier.fr/university-of-montpellier&#34;&gt;&lt;strong&gt;University of Montpellier&lt;/strong&gt;&lt;/a&gt;. I am hosted by the &lt;a href=&#34;http://amap.cirad.fr/en/&#34;&gt;&lt;strong&gt;AMAP&lt;/strong&gt;&lt;/a&gt; joint research unit, and I split my time between its french implantation in &lt;strong&gt;Montpellier&lt;/strong&gt;, its new caledonian implantation in &lt;strong&gt;Nouméa&lt;/strong&gt;, and the &lt;a href=&#34;http://web.emn.fr/x-info/ppc/index_en.html&#34;&gt;&lt;strong&gt;TASC&lt;/strong&gt;&lt;/a&gt; research team in &lt;strong&gt;Nantes&lt;/strong&gt;. My PhD is funded by the &lt;a href=&#34;http://www.cirad.fr/en/home-page&#34;&gt;&lt;strong&gt;Cirad&lt;/strong&gt;&lt;/a&gt; and the &lt;a href=&#34;http://www.iac.nc/&#34;&gt;&lt;strong&gt;IAC&lt;/strong&gt;&lt;/a&gt;. My PhD directors are &lt;a href=&#34;http://amap-collaboratif.cirad.fr/pages_chercheurs/index.php?page=philippe-birnbaum&#34;&gt;&lt;strong&gt;Philippe Birnbaum&lt;/strong&gt;&lt;/a&gt; (Botany and forest ecology) and &lt;a href=&#34;http://web.emn.fr/x-info/xlorca/Monsite/Bienvenue.html&#34;&gt;&lt;strong&gt;Xavier Lorca&lt;/strong&gt;&lt;/a&gt; (Graph theory and constraint programming).&lt;/p&gt;
+
+&lt;p&gt;My subject, &lt;em&gt;&amp;ldquo;A Global and flexible approach for modeling and solving the reserve selection problem&amp;rdquo;&lt;/em&gt;, lies at the crossroad between &lt;strong&gt;applied mathematics&lt;/strong&gt;, &lt;strong&gt;computer science&lt;/strong&gt; and &lt;strong&gt;conservation biology&lt;/strong&gt;. My research focus on developping new methods for solving spatial conservation problems, with an emphasis on how real life constraints can be precisely represented. I am currently interested in studying how &lt;strong&gt;graph theory&lt;/strong&gt; and &lt;strong&gt;constraint programming&lt;/strong&gt; can provide answers to this question. I am also working with &lt;strong&gt;ecologists&lt;/strong&gt; and &lt;strong&gt;decision makers&lt;/strong&gt; between France and New Caledonia to have a better understanding of the environmental, social and economic issues implied by reserve selection. &lt;strong&gt;New caledonian rainforests&lt;/strong&gt; is the main ecosystem in which my methods are tested.&lt;/p&gt;
+
+&lt;p&gt;I am always interested in collaborating with researchers and practitioners. In particular, if you have experience with reserve selection models and spatial conservation planning, feel free to &lt;a href=&#34;mailto:dimitri.justeau@gmail.com&#34;&gt;contact me&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
