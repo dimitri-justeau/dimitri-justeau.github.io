@@ -24,5 +24,19 @@
 </description>
     </item>
     
+    <item>
+      <title>Hello World!</title>
+      <link>https://dimitri-justeau.github.io/post/hello-world/</link>
+      <pubDate>Mon, 02 Oct 2017 11:09:20 +0200</pubDate>
+      
+      <guid>https://dimitri-justeau.github.io/post/hello-world/</guid>
+      <description>
+
+&lt;h2 id=&#34;welcome-in-my-phd-blog&#34;&gt;Welcome in my PhD blog!&lt;/h2&gt;
+
+&lt;p&gt;This is the first post of my PhD blog!&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
