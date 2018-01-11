@@ -29,12 +29,44 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://dimitri-justeau.github.io/quick_about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Resume</title>
+      <link>https://dimitri-justeau.github.io/resume/</link>
+      <pubDate>Thu, 11 Jan 2018 14:35:55 +1100</pubDate>
       
-      <guid>https://dimitri-justeau.github.io/quick_about/</guid>
-      <description>&lt;p&gt;Hello internet visitor! I&amp;rsquo;m Dimitri, a PhD candidate!&lt;/p&gt;
+      <guid>https://dimitri-justeau.github.io/resume/</guid>
+      <description>
+
+&lt;p&gt;&lt;h2 class=&#34;no-bottom-margin&#34;&gt;Areas of expertise &lt;/h2&gt;&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2 class=&#34;no-bottom-margin&#34;&gt;Experience &lt;/h2&gt;&lt;hr&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;phd-candidate-at-cirad-iac-october-2017-today-montpellier-nouméa-france-new-caledonia&#34;&gt;&lt;strong&gt;PhD candidate&lt;/strong&gt; at &lt;strong&gt;Cirad/IAC&lt;/strong&gt;, &lt;em&gt;October 2017 - Today (Montpellier/Nouméa, France/New-Caledonia)&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;Since October 2017 I am proud to be a PhD candidate with the GAIA doctoral school at the University of Montpellier. I am hosted by the AMAP joint research unit and funded by the &lt;a href=&#34;http://www.cirad.fr/en/home-page&#34;&gt;Cirad&lt;/a&gt; and the &lt;a href=&#34;http://www.iac.nc/&#34;&gt;IAC&lt;/a&gt; (New Caledonian Institute of Agronomy). You can find more details about my subject &lt;a href=&#34;https://dimitri-justeau.github.io/about/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;freelance-developper-february-2017-october-2017&#34;&gt;&lt;strong&gt;Freelance developper&lt;/strong&gt;, &lt;em&gt;February 2017 - October 2017&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;Between February 2017 and October 2017 I worked as a freelance developper. I first worked with the NGO &lt;a href=&#34;https://www.solthis.org/en/&#34;&gt;Solthis&lt;/a&gt; on the development of a flexible tool for generating monthly HIV follow-up reports in Niger. I then worked with the &lt;a href=&#34;http://www.iac.nc/&#34;&gt;IAC&lt;/a&gt; on the prototyping of an online geographic analysis tool, that I afterwards integrated into &lt;a href=&#34;https://niamoto.io/&#34;&gt;Niamoto&lt;/a&gt;, the ecological information system I designed during my two-years previous mission with the IAC.&lt;/p&gt;
+
+&lt;h4 id=&#34;ecoinformatics-computer-scientist-at-iac-february-2015-february-2017-nouméa-new-caledonia&#34;&gt;&lt;strong&gt;Ecoinformatics computer scientist&lt;/strong&gt; at &lt;strong&gt;IAC&lt;/strong&gt;, &lt;em&gt;February 2015 - February 2017 (Nouméa, New Caledonia)&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;I worked two years with the &lt;a href=&#34;http://www.iac.nc/&#34;&gt;IAC&lt;/a&gt; as an ecoinformatics computer scientist. My work focused on the development of tools of optimizing the field data collections and on the design and the development of &lt;a href=&#34;https://niamoto.io/&#34;&gt;Niamoto&lt;/a&gt;, an ecological information system for decision support, focused on New Caledonian forest habitats.&lt;/p&gt;
+
+&lt;h4 id=&#34;sanitary-information-systems-project-manager-assistant-at-solthis-october-2013-december-2014-conakry-guinea&#34;&gt;&lt;strong&gt;Sanitary information systems project manager assistant&lt;/strong&gt; at &lt;strong&gt;Solthis&lt;/strong&gt;, &lt;em&gt;October 2013 - December 2014 (Conakry, Guinea)&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;From October 2013 to December 2014, I worked with the NGO &lt;a href=&#34;https://www.solthis.org/en/&#34;&gt;Solthis&lt;/a&gt; in Guinea. I trained and mentored doctors and pharmacians on the usage of the new national tools for collecting and analysing HIV follow-up data. I also developped a software for generating monthly HIV follow-up reports from a Fuchia database, and a software for storing and analysing those reports.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2 class=&#34;no-bottom-margin&#34;&gt;Education &lt;/h2&gt;&lt;hr&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;student-engineer-at-ecole-des-mines-de-nantes-2009-2013-nantes-france&#34;&gt;&lt;strong&gt;Student Engineer&lt;/strong&gt; at &lt;strong&gt;Ecole des Mines de Nantes&lt;/strong&gt;, &lt;em&gt;2009 - 2013 (Nantes, France)&lt;/em&gt;&lt;/h4&gt;
+
+&lt;h4 id=&#34;international-exchange-studiant-at-universidad-de-los-andes-2011-bogotá-colombia&#34;&gt;&lt;strong&gt;International Exchange Studiant&lt;/strong&gt; at &lt;strong&gt;Universidad de Los Andes&lt;/strong&gt;, &lt;em&gt;2011 (Bogotá, Colombia)&lt;/em&gt;&lt;/h4&gt;
+
+&lt;h4 id=&#34;scientific-preparatory-class-mpsi-at-lycée-clémenceau-2008-2009-nantes-france&#34;&gt;&lt;strong&gt;Scientific preparatory class (MPSI)&lt;/strong&gt; at &lt;strong&gt;Lycée Clémenceau&lt;/strong&gt;, &lt;em&gt;2008 - 2009 (Nantes, France)&lt;/em&gt;&lt;/h4&gt;
+
+&lt;h4 id=&#34;scientific-baccalaureate-with-high-honours-2008&#34;&gt;&lt;strong&gt;Scientific baccalaureate&lt;/strong&gt; with high honours, &lt;em&gt;2008&lt;/em&gt;.&lt;/h4&gt;
+
+&lt;p&gt;&lt;h2 class=&#34;no-bottom-margin&#34;&gt;Technical skills &lt;/h2&gt;&lt;hr&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -50,21 +82,9 @@
 
 &lt;p&gt;Since we have to begin somewhere, this is the first post of my PhD blog. In October 2017, I started a PhD whose subject is &lt;em&gt;&amp;ldquo;A Global and flexible approach for modeling and solving the reserve selection problem&amp;rdquo;&lt;/em&gt;. This is an interdisciplinary project which lies at the crossroad between &lt;strong&gt;applied mathematics&lt;/strong&gt;, &lt;strong&gt;computer science&lt;/strong&gt; and &lt;strong&gt;conservation biology&lt;/strong&gt;. I am candidate with the &lt;a href=&#34;https://www.adum.fr/as/ed/gaia/&#34;&gt;&lt;strong&gt;GAIA&lt;/strong&gt;&lt;/a&gt; doctoral school at the &lt;a href=&#34;http://www.umontpellier.fr/university-of-montpellier&#34;&gt;&lt;strong&gt;University of Montpellier&lt;/strong&gt;&lt;/a&gt;. I am hosted by the &lt;a href=&#34;http://amap.cirad.fr/en/&#34;&gt;&lt;strong&gt;AMAP&lt;/strong&gt;&lt;/a&gt; joint research unit, and I split my time between its french implantation in &lt;strong&gt;Montpellier&lt;/strong&gt;, its new caledonian implantation in &lt;strong&gt;Nouméa&lt;/strong&gt;, and the &lt;a href=&#34;http://web.emn.fr/x-info/ppc/index_en.html&#34;&gt;&lt;strong&gt;TASC&lt;/strong&gt;&lt;/a&gt; research team in &lt;strong&gt;Nantes&lt;/strong&gt;. My PhD is funded by the &lt;a href=&#34;http://www.cirad.fr/en/home-page&#34;&gt;&lt;strong&gt;Cirad&lt;/strong&gt;&lt;/a&gt; and the &lt;a href=&#34;http://www.iac.nc/&#34;&gt;&lt;strong&gt;IAC&lt;/strong&gt;&lt;/a&gt;. Finally, My PhD directors are &lt;a href=&#34;http://amap-collaboratif.cirad.fr/pages_chercheurs/index.php?page=philippe-birnbaum&#34;&gt;&lt;strong&gt;Philippe Birnbaum&lt;/strong&gt;&lt;/a&gt; (Cirad/AMAP, Botany and forest ecology) and &lt;a href=&#34;http://web.emn.fr/x-info/xlorca/Monsite/Bienvenue.html&#34;&gt;&lt;strong&gt;Xavier Lorca&lt;/strong&gt;&lt;/a&gt; (IMT Atlantique/LS2N, Graph theory and constraint programming).&lt;/p&gt;
 
-&lt;p&gt;So, why did I decide to set up a PhD blog, and what will it contain?&lt;/p&gt;
-
-&lt;h3 id=&#34;why-a-phd-blog&#34;&gt;Why a PhD blog?&lt;/h3&gt;
-
-&lt;p&gt;I think that writing about your work is great, and that sharing it is even better. In research, we solve different types of problems every day: finding a good reference about a particular topic, learning how to use a library, how to build a PhD blog, finding useful tricks for the field, etc. Writing about this is a good way to cristalize this day-to-day knowledge, and sharing it on the internet is a way to help others that could face the same kind of problems. Actually, this is what a huge part of the internet is about: &lt;em&gt;sharing human knowledge and practices&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I think that writing about your work is great, and sharing it is even better. In research, we solve different types of problems every day: finding a good reference about a particular topic, learning how to use a library, how to build a PhD blog, finding useful tricks for the field, etc. Writing about this is a good way to cristalize this day-to-day knowledge, and sharing it on the internet is a way to help others that could face the same kind of problems. Actually, this is what a huge part of the internet is about: &lt;em&gt;sharing human knowledge and practices&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Beyond that aspect, I also see the PhD blog as a way to keep a written and shared trace of the PhD experience, which is, from what I have seen around me (I am only starting mine), something intense in a scientist&amp;rsquo;s life.&lt;/p&gt;
-
-&lt;h3 id=&#34;what-will-i-post&#34;&gt;What will I post?&lt;/h3&gt;
-
-&lt;p&gt;I will use this blog as a media to share general news about my PhD (conferences, published articles - I hope, etc.), technical stuff (most of the time computer science stuff) and of course, scientific contents related to my PhD subject (article review, interesting questions or breakthroughs, etc.).&lt;/p&gt;
-
-&lt;h3 id=&#34;when-will-i-post&#34;&gt;When will I post?&lt;/h3&gt;
-
-&lt;p&gt;Writing is tedious and time consuming. Even more when you do not write in your native language (mine is French). It is thus important to aim a post publishing frequency, and try to respect it in order to keep the blog alive. To begin, I will aim to publish a post at least &lt;em&gt;every two weeks&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
