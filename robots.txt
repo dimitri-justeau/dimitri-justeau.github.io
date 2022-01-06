@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://dimitri-justeau.github.io/sitemap.xml

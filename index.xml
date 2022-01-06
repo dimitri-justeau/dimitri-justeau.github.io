@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimitri Justeau-Allaire</title>
+    <link>https://dimitri-justeau.github.io/</link>
+    <description>Recent content on Dimitri Justeau-Allaire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 May 2018 17:27:57 +0200</lastBuildDate><atom:link href="https://dimitri-justeau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Converting multi-class vector dataset to multiple single-class presence-absence raster datasets, with GeoPandas and Rasterio</title>
+      <link>https://dimitri-justeau.github.io/post/multiclass_vector_to_singleclass_rasters/</link>
+      <pubDate>Mon, 14 May 2018 17:27:57 +0200</pubDate>
+      
+      <guid>https://dimitri-justeau.github.io/post/multiclass_vector_to_singleclass_rasters/</guid>
+      <description>In this post we will see how to convert a single shapefile containing vector features of several classes (where the class is stored as an attribute of the features) to multiple single-class presence-absence rasters, one for each class. More concretely, we have one shapefile containing a bunch of vector features, representing many classes. For each class, we want to extract one single band presence-absence raster, that is a raster where a pixel equals 1 if there is an vector of this class overlapping it, 0 else.</description>
+    </item>
+    
+    <item>
+      <title>Hello World, this is my PhD blog!</title>
+      <link>https://dimitri-justeau.github.io/post/hello-world/</link>
+      <pubDate>Mon, 02 Oct 2017 11:09:20 +0200</pubDate>
+      
+      <guid>https://dimitri-justeau.github.io/post/hello-world/</guid>
+      <description>Welcome in my PhD blog! Since we have to begin somewhere, this is the first post of my PhD blog. In October 2017, I started a PhD whose subject is &amp;ldquo;A Global and flexible approach for modeling and solving the reserve selection problem&amp;rdquo;. This is an interdisciplinary project which lies at the crossroad between applied mathematics, computer science and conservation biology. I am candidate with the GAIA doctoral school at the University of Montpellier.</description>
+    </item>
+    
+  </channel>
+</rss>

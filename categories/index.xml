@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Dimitri Justeau-Allaire</title>
+    <link>https://dimitri-justeau.github.io/categories/</link>
+    <description>Recent content in Categories on Dimitri Justeau-Allaire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Oct 2017 11:09:20 +0200</lastBuildDate><atom:link href="https://dimitri-justeau.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>phd</title>
+      <link>https://dimitri-justeau.github.io/categories/phd/</link>
+      <pubDate>Mon, 02 Oct 2017 11:09:20 +0200</pubDate>
+      
+      <guid>https://dimitri-justeau.github.io/categories/phd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

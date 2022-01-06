@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phd on Dimitri Justeau-Allaire</title>
+    <link>https://dimitri-justeau.github.io/categories/phd/</link>
+    <description>Recent content in phd on Dimitri Justeau-Allaire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Oct 2017 11:09:20 +0200</lastBuildDate><atom:link href="https://dimitri-justeau.github.io/categories/phd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World, this is my PhD blog!</title>
+      <link>https://dimitri-justeau.github.io/post/hello-world/</link>
+      <pubDate>Mon, 02 Oct 2017 11:09:20 +0200</pubDate>
+      
+      <guid>https://dimitri-justeau.github.io/post/hello-world/</guid>
+      <description>Welcome in my PhD blog! Since we have to begin somewhere, this is the first post of my PhD blog. In October 2017, I started a PhD whose subject is &amp;ldquo;A Global and flexible approach for modeling and solving the reserve selection problem&amp;rdquo;. This is an interdisciplinary project which lies at the crossroad between applied mathematics, computer science and conservation biology. I am candidate with the GAIA doctoral school at the University of Montpellier.</description>
+    </item>
+    
+  </channel>
+</rss>
